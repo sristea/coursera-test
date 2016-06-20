@@ -8,6 +8,8 @@ div{
   margin-left: 10px;
   font-family: Helvetica;
   color: white;
+  background-color: white;
+  border: none;
 }
 h2{
    border: 1px solid black;
