@@ -10,9 +10,11 @@ div{
   color: white;
 }
 h2{
-    border: 1px solid black;
-}
-/* Simple Responsive Framework. */
+   border: 1px solid black;
+    width: 168px;
+    text-align: right;
+    margin-left: auto;
+}/* Simple Responsive Framework. */
 .row {
   width: 100%;
 }
