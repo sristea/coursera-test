@@ -15,7 +15,18 @@ h2{
     width: 168px;
     text-align: right;
     margin-left: auto;
-}/* Simple Responsive Framework. */
+}
+#title1{
+  background-color: purple;
+}
+#title2{
+  background-color: aquamarine;
+}
+#title3{
+  background-color: red;
+}
+
+/* Simple Responsive Framework. */
 .row {
   width: 100%;
   background-color: white;
