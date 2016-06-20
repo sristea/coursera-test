@@ -35,7 +35,7 @@ h2{
   width: 100%;
   background-color: white;
   border: none;
-  margin-bottom: 20px;
+
 }
 /********** desktop version **********/
 @media (min-width: 992px) {
@@ -86,7 +86,7 @@ h2{
   .col-td-1, .col-td-2, .col-td-3, .col-td-4, .col-td-5, .col-td-6, .col-td-7, .col-td-8, .col-td-9, .col-td-10, .col-td-11, .col-td-12 {
     float: left;
     border: 1px solid green;
-    margin-bottom: 20px;
+   
   }
   .col-td-1 {
     width: 8.33%;
