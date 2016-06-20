@@ -10,7 +10,7 @@ div{
   color: white;
 }
 h2{
-  
+    border: 1px solid black;
 }
 /* Simple Responsive Framework. */
 .row {
