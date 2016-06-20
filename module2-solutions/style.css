@@ -8,8 +8,7 @@ div{
   margin-left: 10px;
   font-family: Helvetica;
   color: white;
-  background-color: white;
-  border: none;
+  
 }
 h2{
    border: 1px solid black;
@@ -19,6 +18,8 @@ h2{
 }/* Simple Responsive Framework. */
 .row {
   width: 100%;
+  background-color: white;
+  border: none;
 }
 /********** desktop version **********/
 @media (min-width: 992px) {
